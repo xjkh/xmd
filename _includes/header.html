@@ -1,0 +1,20 @@
+<header>
+    <a href="/" aria-current="page">
+        <img src="/assets/mindset-dojo-logo.png" alt="Mindset Dojo Logo" width="292" height="80" decoding="async" fetchpriority="high">
+    </a>
+    <nav>
+        <ul>
+            <li class="md-hidden"><a href="/" {% if page.url=="/" %}aria-current="page" {% endif %}>HOME</a></li>
+            <li><a href="/impact/" {% if page.url=="/impact/" %}aria-current="page" {% endif %}>IMPACT</a></li>
+            <li><a href="/offerings/" {% if page.url=="/offerings/" %}aria-current="page" {% endif %}>OFFERINGS</a></li>
+            <li><a href="/community/" {% if page.url=="/community/" %}aria-current="page" {% endif %}>COMMUNITY</a></li>
+            <li class="md-hidden"><a href="https://connect.mindset.dojo.center/" target="_blank">CONTACT</a></li>
+        </ul>
+        <button>
+            <span class="bar bar1"></span>
+            <span class="bar bar2"></span>
+            <span class="bar bar3"></span>
+            <span class="bar bar4"></span>
+        </button>
+    </nav>
+</header>
