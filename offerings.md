@@ -2,7 +2,6 @@
 layout: default
 title: Transformative Pathways to Mastery at Mindset Dojo
 description: Discover the Mindset Dojo pathways - assessments, focused mastery sessions, and the Mindset Evolution Mastery Program. Develop emotional intelligence, handle conflict, and align your decisions with purpose. Ideal for individuals and teams ready to grow.
-keywords: Mindset Dojo offerings, emotional intelligence, conflict resolution, leadership mastery, Mindset Evolution, team alignment, decision-making, growth programs, leadership development
 css_id: offerings
 ---
 <main aria-label="Content">

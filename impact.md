@@ -2,7 +2,6 @@
 layout: default
 title: Real Stories of Impact - Mindset Dojo in Action
 description: Learn how Mindset Dojo transforms lives and organizations through emotional intelligence, systems thinking, and collaboration. Real-world examples showcase breakthroughs in culture, leadership, and personal relationships.
-keywords: Mindset Dojo impact, cultural transformation, emotional intelligence, systems thinking, leadership development, conflict resolution, DevOps culture, co-parenting success, organizational growth
 css_id: impact
 ---
 <main aria-label="Content">

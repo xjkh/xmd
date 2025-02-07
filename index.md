@@ -2,12 +2,11 @@
 layout: default
 title: Master the Art of Intelligent Leadership with Mindset Dojo
 description: At Mindset Dojo, we help leaders turn difficult conversations into catalysts for change. Build emotional intelligence and critical thinking skills to thrive in life-defining moments, personally and professionally.
-keywords: Mindset Dojo, intelligent leadership, emotional intelligence, critical thinking, professional growth, conflict resolution, leadership training, personal growth
 css_id: home
 ---
 <main aria-label="Content">
     <h1 class="md-has-divider">Master the Art of <mark>Intelligent Leadership</mark><br><small><em>Turn <mark>Difficult Conversation</mark> into Catalysts for Change</em></small></h1>
-    <iframe srcdoc="<style>body, a, img {width: 100%;height: 100%;margin: 0;position: absolute;display: flex;justify-content: center;object-fit: cover;}</style><a href='https://www.youtube-nocookie.com/embed/28GomUbR5UE?autoplay=0'><img src='/assets/video-preview.jpg' /><svg version='1.1' viewBox='0 0 68 48' width='68px' style='position: relative;'><path d='M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z' fill='#f00'></path><path d='M 45,24 27,14 27,34' fill='#fff'></path></svg></a>" style="width: 100%; aspect-ratio: 16/9;" frameborder="0"></iframe>
+    <div class="md-youtube-player" data-id="28GomUbR5UE" data-preview="intentional-conversation-preview.jpg"></div>
     <blockquote>
         <p>What good is <strong>emotional intelligence</strong> and <strong>critical thinking</strong> if they don’t show up in life-defining moments—personally or professionally?</p>
     </blockquote>

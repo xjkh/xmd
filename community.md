@@ -2,7 +2,6 @@
 layout: default
 title: Join the Mindset Dojo Community for Intentional Conversations
 description: Explore the practice of intentional conversations in the Mindset Dojo community. Develop Mindset Intelligence to see clearly, act decisively, and build trust. Join leaders and individuals who value personal growth, relational excellence, and systems thinking.
-keywords: Mindset Dojo, intentional conversations, Mindset Intelligence, personal growth, relational excellence, systems thinking, leadership community, trust-building, professional development
 css_id: community
 ---
 <main aria-label="Content">
