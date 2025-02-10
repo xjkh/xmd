@@ -5,11 +5,13 @@ description: Discover the Mindset Dojo pathways - assessments, focused mastery s
 css_id: offerings
 ---
 <main aria-label="Content">
-	<h1 class="md-has-divider">Pathways to <mark>Mastery</mark></h1>
+	<h1>Pathways to <mark>Mastery</mark></h1>
+	<hr>
 	<p>From your very first session, you’ll start seeing improvements—whether in the way you <strong>handle challenging conversations</strong>, make high-stakes decisions, or <strong>resolve conflict under pressure.</strong></p>
 	<p>We offer the following pathways:</p>
 	<hgroup>
-		<h3 class="md-has-divider">Mindset Awareness Assessment</h3>
+		<h2>Mindset Awareness Assessment</h2>
+		<hr>
 		<p>Enhance self-awareness by understanding your thinking, behaviors, and perceptions, empowering better decisions, conflict resolution, and collaboration when it matters most.</p>
 		<h4>Assessment + Debrief</h4>
 		<ul>
@@ -28,7 +30,8 @@ css_id: offerings
 		</ul>
 	</hgroup>
 	<hgroup>
-		<h3 class="md-has-divider">Focused Mastery Sessions For Immediate Challenges</h3>
+		<h2>Focused Mastery Sessions For Immediate Challenges</h2>
+		<hr>
 		<p>Ideal for individuals or teams with specific goals or pressing challenges, these sessions provide&nbsp;<strong>real-time tools</strong>&nbsp;that you can immediately apply.</p>
 		<h4>12-Session Package</h4>
 		<ul>
@@ -47,7 +50,8 @@ css_id: offerings
 		</ul>
 	</hgroup>
 	<hgroup>
-		<h3 class="md-has-divider">Mindset Agility Program</h3>
+		<h2>Mindset Agility Program</h2>
+		<hr>
 		<p>This journey takes you from White Belt to Black Belt, integrating <strong>emotional intelligence</strong>, <strong>systems thinking</strong>, and <strong>conflict mastery</strong>. You’ll build skills that are not only learned but practiced and internalized through repeated exercises and simulations.</p>
 		<ul>
 			<li>

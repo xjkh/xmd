@@ -5,11 +5,13 @@ description: Learn how Mindset Dojo transforms lives and organizations through e
 css_id: impact
 ---
 <main aria-label="Content">
-	<h1 class="md-has-divider">Realizing <mark>Impactful Change</mark></h1>
+	<h1>Realizing <mark>Impactful Change</mark></h1>
+	<hr>
 	<p>We focus on helping individuals and teams master <strong>emotional intelligence</strong> and <strong>systems thinking</strong> in high-pressure situations.</p>
 	<p>The following high-level scenarios showcase the real-world impact of this approach:</p>
 	<hgroup>
-		<h3 class="md-has-divider">Breaking Down Silos to Drive Culture and Growth</h3>
+		<h2>Breaking Down Silos to Drive Culture and Growth</h2>
+		<hr>
 		<p>A Fortune 500 business unit was struggling for years to adopt DevOps because of a heavily siloed organization culture and distrust among department heads.</p>
 		<p>Through its core programming, Mindset Dojo—integrating <strong>systems thinking</strong>, <strong>emotional intelligence</strong>, and collaborative frameworks like Agile and InnerSource—fostered a cultural shift that built cohesion across development, operations, project management, cybersecurity, and compliance departments.</p>
 		<p>By aligning strategically and executing with passion, the organization unlocked new revenue streams, embraced innovation, and drove long-term growth.</p>
@@ -27,7 +29,8 @@ css_id: impact
 		</ul>
 	</hgroup>
 	<hgroup>
-		<h3 class="md-has-divider">Cultural Unification for Efficiency and Growth</h3>
+		<h2>Cultural Unification for Efficiency and Growth</h2>
+		<hr>
 		<p>Following a major reorganization, a Fortune 500 data organization struggled to align newly formed teams and roles, leading to inefficiencies and fragmented collaboration.</p>
 		<p>Through its core programming, Mindset Dojo integrated <strong>systems thinking</strong> and <strong>emotional intelligence</strong> to unify these teams and instill adaptability. By leveraging Agile practices, we transformed the organization into a cohesive, high-performing unit.</p>
 		<p>This transformation fostered stronger collaboration and streamlined decision-making, enabling the organization to respond effectively to market demands and achieve sustained growth.</p>
@@ -45,7 +48,8 @@ css_id: impact
 		</ul>
 	</hgroup>
 	<hgroup>
-		<h3 class="md-has-divider">Personal Conflict Mastery</h3>
+		<h2>Personal Conflict Mastery</h2>
+		<hr>
 		<p>A high-conflict divorce created an environment of distrust and frequent disputes, risking further litigation, financial strain, and instability for the children involved.</p>
 		<p>Mindset Dojo’s core programming in <strong>emotional intelligence</strong> and <strong>negotiation</strong> facilitated trust-building and cooperative decision-making between the parties.</p>
 		<p>This approach avoided further litigation, resulting in significant financial savings for both parties, and fostered a positive, stable environment for the children.</p>
@@ -56,8 +60,9 @@ css_id: impact
 			<li>Emotionally healthy environment, supporting the children’s long-term well-being and growth.</li>
 		</ul>
 	</hgroup>
-	<h2 class="md-has-divider">Reflections from the Journey</h2>
-	<section class="md-group">
+	<h2>Reflections from the Journey</h2>
+	<hr>
+	<section class="md-grid-2">
 		<blockquote>
 			<p><em>“Michael’s knack for building communities and uniting diverse teams toward a shared goal has been instrumental in fostering collaboration and driving success. His proactive mentorship and continuous learning elevate not only his own expertise but also that of the entire team.”</em></p>
 			<footer>&#8211; Project Management Leader</footer>

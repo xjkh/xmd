@@ -5,18 +5,20 @@ description: At Mindset Dojo, we help leaders turn difficult conversations into 
 css_id: home
 ---
 <main aria-label="Content">
-    <h1 class="md-has-divider">Master the Art of <mark>Intelligent Leadership</mark><br><small><em>Turn <mark>Difficult Conversation</mark> into Catalysts for Change</em></small></h1>
+    <h1>Master the Art of <mark>Intelligent Leadership</mark><br><small><em>Turn <mark>Difficult Conversation</mark> into Catalysts for Change</em></small></h1>
+    <hr>
     <div class="md-youtube-player" data-id="28GomUbR5UE" data-preview="intentional-conversation-preview.jpg"></div>
     <blockquote>
         <p>What good is <strong>emotional intelligence</strong> and <strong>critical thinking</strong> if they don’t show up in life-defining moments—personally or professionally?</p>
     </blockquote>
     <p>Unlike other programs that only focus on concepts, we emphasize the <strong>practical application</strong> of emotional intelligence in <strong>real time.</strong></p>
     <p>You’ll master emotions, lead with wisdom, and build authentic trust when it matters most. By honing these skills in high-pressure situations, you’ll foster <strong>better, more meaningful conversations</strong>, make <strong>wiser decisions</strong>, and create authentic connections that <strong>drive sustainable success</strong> both personally and professionally.</p>
-    <div class="md-group">
+    <div class="md-cta-group">
         <a href="/impact/">Explore Impact</a><a href="/offerings/">View Offerings</a>
     </div>
-    <h2 class="md-has-divider">The Common Challenge, and Beyond</h2>
-    <section class="md-group">
+    <h2>The Common Challenge, and Beyond</h2>
+    <hr>
+    <section class="md-grid-2">
         <hgroup>
             <h3>Leadership Challenges</h3>
             <p>We started Mindset Dojo because we saw a common issue in leadership—from Fortune 500 companies to small businesses. It was easy to get a “yes” to an idea, but hard to execute that idea effectively. This often led to revenue challenges and cultural breakdowns, costing key performers and causing sleepless nights.</p>

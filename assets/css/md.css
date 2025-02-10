@@ -170,7 +170,6 @@ main ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 0 0 12px 0;
     color: var(--light-color-primary);
     font-family: var(--primary-font);
 }
@@ -178,6 +177,15 @@ h1, h2, h3, h4, h5, h6 {
 h1, h2, h3, h4, h5, h6 {
     text-rendering: optimizelegibility;
     font-weight: 700;
+}
+
+h1, h2 {
+    text-align: center;
+    margin: 0;
+}
+
+h3, h4, h5, h6 {
+    margin: 0 0 12px 0;
 }
 
 h1 {
@@ -268,6 +276,17 @@ img {
     margin: 0 0 1.2em;
 }
 
+hr {
+    width: 12%;
+    border-top: 3px solid var(--light-color-primary);
+    margin-top: 20px;
+    margin-bottom: 32px;
+}
+
+hgroup hr {
+    width: 20%;
+}
+
 /* utility */
 .md-text-xl {
     font-size: var(--text-xl);
@@ -302,26 +321,60 @@ img {
     display: none;
 }
 
-.md-has-divider {
-    align-self: center;
-    text-align: center;
+.md-cta-group {
+    display: flex;
+    gap: 36px;
+    justify-content: center;
+    margin: 40px 0 80px;
 }
 
-.md-has-divider:after {
-    content: "";
-    display: block;
-    margin: auto;
-    height: 3px;
-    width: 28%;
-    background: var(--light-color-primary);
-    margin-top: 20px;
-    margin-bottom: 20px;
+@media (max-width: 576px) {
+    .md-cta-group {
+        flex-direction: column;
+    }
 }
 
-.md-group {
+.md-grid-2,
+.md-grid-3 {
     display: grid;
-    grid-gap: 36px;
     max-width: 100%;
+    margin: 0 0 20px;
+}
+
+.md-grid-2 {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 32px;
+}
+
+.md-grid-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 24px;
+}
+
+@media (max-width: 767px) {
+    section.md-grid-2,
+    section.md-grid-3 {
+        grid-template-columns: 1fr;
+        grid-gap: 24px;
+    }
+}
+
+section.md-grid-2 hgroup,
+section.md-grid-3 hgroup {
+    margin: 0;
+}
+
+section.md-grid-2 blockquote,
+section.md-grid-3 blockquote {
+    border-radius: 24px;
+    background-color: var(--dark-color-secondary);
+    padding: 32px;
+    margin: 0;
+}
+
+section.md-grid-2 blockquote p,
+section.md-grid-3 blockquote p {
+    font-size: var(--text-s);
 }
 
 .md-youtube-player {
@@ -437,12 +490,6 @@ header {
     }
 }
 
-@media (max-width: 478px) {
-    header {
-        flex-direction: row;
-    }
-}
-
 /* logo */
 header img {
     object-position: 0;
@@ -489,7 +536,7 @@ nav a:hover {
     color: var(--nav-text-active-color);
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     header nav ul {
         display: none;
     }
@@ -566,7 +613,7 @@ header button .bar4 {
     width: 40px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     header button {
         display: flex;
     }
@@ -631,8 +678,12 @@ main > blockquote {
     }
 }
 
+main > a {
+    margin-top: 20px;
+}
+
 main > a,
-main > div > a {
+.md-cta-group a {
     align-items: center;
     border-width: 0;
     display: inline-flex;
@@ -641,7 +692,6 @@ main > div > a {
     letter-spacing: .5px;
     text-align: center;
     align-self: center;
-    min-width: 300px;
     background-color: var(--button-background-color);
     transition: all 0.5s ease;
     border-radius: 36px;
@@ -649,20 +699,12 @@ main > div > a {
     font-weight: 700;
     font-style: italic;
     padding: 16px 40px;
-    margin-top: 20px;
+    width: 100%;
+    max-width: 320px;
 }
 
 main > a:hover {
     background-color: var(--button-background-hover-color);
-}
-
-main > .md-group {
-    margin: 40px auto;
-    grid-template-columns: repeat(auto-fit, minmax(auto, 300px));
-}
-
-main > .md-group a {
-    margin: 0;
 }
 
 /* cards */
@@ -677,34 +719,6 @@ hgroup {
 
 hgroup + a {
     margin-top: 0;
-}
-
-section.md-group {
-    grid-template-columns: 1fr 1fr;
-    margin: 0 0 20px;
-}
-
-@media (max-width: 767px) {
-    section.md-group {
-        grid-template-columns: 1fr;
-        grid-gap: 24px;
-    }
-}
-
-section.md-group hgroup {
-    padding: 32px;
-    margin: 0;
-}
-
-section.md-group blockquote {
-    border-radius: 24px;
-    background-color: var(--dark-color-secondary);
-    padding: 32px;
-    margin: 0;
-}
-
-section.md-group blockquote p {
-    font-size: var(--text-m);
 }
 
 /* [PAGE SPECIFIC] */
