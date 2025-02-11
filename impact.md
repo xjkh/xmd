@@ -15,13 +15,13 @@ css_id: impact
 		<p>A Fortune 500 business unit was struggling for years to adopt DevOps because of a heavily siloed organization culture and distrust among department heads.</p>
 		<p>Through its core programming, Mindset Dojo—integrating <strong>systems thinking</strong>, <strong>emotional intelligence</strong>, and collaborative frameworks like Agile and InnerSource—fostered a cultural shift that built cohesion across development, operations, project management, cybersecurity, and compliance departments.</p>
 		<p>By aligning strategically and executing with passion, the organization unlocked new revenue streams, embraced innovation, and drove long-term growth.</p>
-		<h4>Impact:</h4>
+		<h3>Impact:</h3>
 		<ul>
 			<li>Millions of dollars in recurring revenue.</li>
 			<li>Rapid adaptation to economic changes and AI disruption.</li>
 			<li>Lasting cultural transformation, ensuring continued success and agility.</li>
 		</ul>
-		<h4>Explore more:</h4>
+		<h3>Explore more:</h3>
 		<ul>
 			<li><a href="https://www.youtube.com/watch?v=5TWsIeeYu7k">How to manage DevOps culture?</a></li>
 			<li><a href="https://www.youtube.com/watch?v=fXoVm5iTSCc">InnerSource Dojo Way</a></li>
@@ -34,13 +34,13 @@ css_id: impact
 		<p>Following a major reorganization, a Fortune 500 data organization struggled to align newly formed teams and roles, leading to inefficiencies and fragmented collaboration.</p>
 		<p>Through its core programming, Mindset Dojo integrated <strong>systems thinking</strong> and <strong>emotional intelligence</strong> to unify these teams and instill adaptability. By leveraging Agile practices, we transformed the organization into a cohesive, high-performing unit.</p>
 		<p>This transformation fostered stronger collaboration and streamlined decision-making, enabling the organization to respond effectively to market demands and achieve sustained growth.</p>
-		<h4>Impact:</h4>
+		<h3>Impact:</h3>
 		<ul>
 			<li>Rapid adoption of Agile Mindset and methodologies.</li>
 			<li>Increased team cohesion and operational efficiency.</li>
 			<li>Long-term adaptability and alignment with new organizational goals.</li>
 		</ul>
-		<h4>Explore more:</h4>
+		<h3>Explore more:</h3>
 		<ul>
 			<li><a href="https://community.sap.com/t5/sap-for-higher-education-and-research-blogs/from-challenges-to-transformation-the-data-services-organization-dojo-tale/ba-p/13646867">The Data Services Organization Dojo Tale</a></li>
 			<li><a href="https://community.sap.com/t5/open-source-blogs/from-learner-to-leader-the-power-of-senpai/ba-p/13662823">From Learner to Leader: The Power of Senpai</a></li>
@@ -53,7 +53,7 @@ css_id: impact
 		<p>A high-conflict divorce created an environment of distrust and frequent disputes, risking further litigation, financial strain, and instability for the children involved.</p>
 		<p>Mindset Dojo’s core programming in <strong>emotional intelligence</strong> and <strong>negotiation</strong> facilitated trust-building and cooperative decision-making between the parties.</p>
 		<p>This approach avoided further litigation, resulting in significant financial savings for both parties, and fostered a positive, stable environment for the children.</p>
-		<h4>Impact:</h4>
+		<h3>Impact:</h3>
 		<ul>
 			<li>Tens of thousands of dollars saved by avoiding further litigation (for both parties).</li>
 			<li>Lasting co-parenting relationship built on trust, positively impacting the family involved.</li>

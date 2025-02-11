@@ -20,7 +20,7 @@ css_id: community
 		{% unless associate.active %}{% continue %}{% endunless %}
 		<section>
 			<img src="{{associate.profile_picture}}" width="100" height="100" alt="Associate Profile Picture" />
-			<h4>{{ associate.name }}</h4>
+			<h2>{{ associate.name }}</h2>
 			<ul>
 			{% for tag in associate.tags %}
 			<li>{{ tag.label }}</li>
