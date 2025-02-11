@@ -4,13 +4,13 @@
     </a>
     <nav id="Menu">
         <ul role="menu">
-            <li class="md-hidden"><a href="/" {% if page.url=="/" %}aria-current="page" {% endif %}>HOME</a></li>
-            <li><a href="/impact/" {% if page.url=="/impact/" %}aria-current="page" {% endif %}>IMPACT</a></li>
-            <li><a href="/offerings/" {% if page.url=="/offerings/" %}aria-current="page" {% endif %}>OFFERINGS</a></li>
-            <li><a href="/community/" {% if page.url=="/community/" %}aria-current="page" {% endif %}>COMMUNITY</a></li>
-            <li class="md-hidden"><a href="https://connect.mindset.dojo.center/" target="_blank">CONTACT</a></li>
+            <li class="md-hidden" role="presentation"><a href="/" {% if page.url=="/" %}aria-current="page" {% endif %} role="menuitem">HOME</a></li>
+            <li role="presentation"><a href="/impact/" {% if page.url=="/impact/" %}aria-current="page" {% endif %} role="menuitem">IMPACT</a></li>
+            <li role="presentation"><a href="/offerings/" {% if page.url=="/offerings/" %}aria-current="page" {% endif %} role="menuitem">OFFERINGS</a></li>
+            <li role="presentation"><a href="/community/" {% if page.url=="/community/" %}aria-current="page" {% endif %} role="menuitem">COMMUNITY</a></li>
+            <li class="md-hidden" role="presentation"><a href="https://connect.mindset.dojo.center/" target="_blank" role="menuitem">CONTACT</a></li>
         </ul>
-        <button aria-label="Menu Toggle" aria-expanded="false" aria-controls="Menu">
+        <button aria-label="Menu Toggle" aria-expanded="false" aria-controls="Menu" aria-haspopup="true">
             <span class="bar bar1"></span>
             <span class="bar bar2"></span>
             <span class="bar bar3"></span>
