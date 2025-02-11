@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mindset Dojo Privacy Policy
+description: Privacy Policy
 css_id: privacy-policy
 ---
 <main aria-label="Content">
@@ -53,6 +54,6 @@ css_id: privacy-policy
 	</section>
 	<section>
 		<h2>Contact Us</h2>
-		<p>If you have any questions about this Privacy Policy, please contact us <a href="https://connect.mindset.dojo.center/" target="_blank" rel="noopener">here</a>.</p>
+		<p>If you have any questions about this Privacy Policy, please <a href="https://connect.mindset.dojo.center/" target="_blank" rel="noopener">contact us</a>.</p>
 	</section>
 </main>

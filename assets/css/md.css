@@ -140,6 +140,7 @@ main ul {
 h1, h2, h3, h4, h5, h6 {
     color: var(--light-color-primary);
     font-family: var(--primary-font);
+    margin: 0 0 8px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -149,7 +150,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, h2 {
     text-align: center;
-    margin: 0;
 }
 
 h3, h4, h5, h6 {
@@ -245,9 +245,9 @@ img {
 }
 
 hr {
-    width: 12%;
+    width: 16%;
     border-top: 3px solid var(--light-color-primary);
-    margin-top: 20px;
+    margin-top: 16px;
     margin-bottom: 32px;
 }
 
@@ -723,7 +723,6 @@ hgroup + a {
 
 .md-associates section h2 {
     font-size: var(--h4);
-    margin-bottom: 4px;
 }
 
 .md-associates section h2 + ul {
@@ -760,7 +759,6 @@ hgroup + a {
 /* [PRIVACY POLICY] */
 #privacy-policy h2 {
     text-align: left;
-    margin-bottom: 8px;
 }
 
 /* [404] */
