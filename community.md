@@ -29,7 +29,7 @@ css_id: community
 			{% if associate.linkedin or associate.belt_level %}
 			<div class="md-group">
 				{% if associate.linkedin %}
-				<a href="{{ associate.linkedin }}" target="_blank">
+				<a href="{{ associate.linkedin }}" target="_blank" aria-label="LinkedIn">
 					<svg class="md-icon-svg" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 40 40"><path d="M20,1.5c10.2,0,18.5,8.3,18.5,18.5s-8.3,18.5-18.5,18.5S1.5,30.2,1.5,20,9.8,1.5,20,1.5ZM20,0C9,0,0,9,0,20s9,20,20,20,20-9,20-20S31,0,20,0ZM16.7,13.3c0,.9-.7,1.7-1.7,1.7s-1.7-.7-1.7-1.7.7-1.7,1.7-1.7,1.7.8,1.7,1.7ZM16.7,16.7h-3.3v10h3.3v-10ZM21.7,16.7h-3.3v10h3.3v-4.8c0-2.9,3.3-3.1,3.3,0v4.8h3.3v-5.6c0-5.5-5.2-5.3-6.7-2.6,0,0,0-1.8,0-1.8Z"/></svg>
 				</a>
 				{% endif %}
