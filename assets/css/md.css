@@ -760,6 +760,7 @@ hgroup + a {
 /* [PRIVACY POLICY] */
 #privacy-policy h2 {
     text-align: left;
+    margin-bottom: 8px;
 }
 
 /* [404] */
