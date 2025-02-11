@@ -4,7 +4,6 @@ function initMD() {
     var nav_menu_toggle = document.querySelector("header button");
     nav_menu_toggle.addEventListener("click", function() {
         body.classList.toggle("md-no-scroll");
-        //this.toggleAttribute("aria-expanded", "true");
         this.ariaExpanded = this.ariaExpanded !== 'true';
     });
 
