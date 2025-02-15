@@ -7,7 +7,7 @@ css_id: home
 <main aria-label="Content">
     <h1>Master the Art of <mark>Intelligent Leadership</mark><br><small><em>Turn <mark>Difficult Conversation</mark> into Catalysts for Change</em></small></h1>
     <hr>
-    <div class="md-youtube-player" data-id="28GomUbR5UE" data-preview="intentional-conversation-preview.webp"></div>
+    <div class="md-youtube-player" data-id="YF8HEO1phWw" data-preview="intentional-insightful-conversation-preview.webp"></div>
     <blockquote>
         <p>What good is <strong>emotional intelligence</strong> and <strong>critical thinking</strong> if they don’t show up in life-defining moments—personally or professionally?</p>
     </blockquote>

@@ -358,6 +358,7 @@ section.md-grid-3 blockquote p {
     background-size: cover;
     background-position: center;
     cursor: pointer;
+    margin-bottom: 20px;
 }
 
 .md-youtube-player iframe {
@@ -636,7 +637,7 @@ main > blockquote {
     padding-left: 32px;
     border-left: solid 8px;
     border-left-color: var(--brand-color-primary);
-    margin-top: 40px;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
